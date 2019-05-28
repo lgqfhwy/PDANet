@@ -3,7 +3,7 @@
 By Guoqiang Liu, lgqfhwy@zju.edu.cn.
 
 
-This code is a implementation of the experiments on ADE20K in the PDANet. We implement our method 
+This code is an implementation of the experiments on ADE20K in the PDANet. We implement our method 
 based on open source [semantic-segmentation-pytorch](https://github.com/CSAILVision/semantic-segmentation-pytorch)
 
 
